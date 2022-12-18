@@ -11,6 +11,6 @@
   ## 
   <br>
   
-- 🔭 I’m currently working on Programa TopCoders - Banco Safra & Let's Code from Ada;
-- 🌱 I’m currently learning GIT, GitHub, C# and another programming languages;
-- 😄 Pronouns: he/him/.
+- 🔭 I’m currently studying Web FullStack on Let's Code from Ada;
+- 🌱 I’m currently learning C# | SQL Server | Javascript | Typescript | Angular | HTML | CSS | GIT | GitHub | and another programming languages;
+- 😄 Pronouns: he/him.
