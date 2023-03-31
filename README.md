@@ -15,3 +15,13 @@
 - 🔭 I recently finished the FullStack Web studies (600h) at Ada's Let's Code;
 - 🌱 I’m always learning more about C# | SQL Server | Javascript | Typescript | Angular | HTML | CSS | GIT | GitHub | and another programming languages;
 - 😄 Pronouns: he/him.
+
+
+<h2 align="center"> Tecnologias que conheço </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,sass,angular,ts,github,git,visualstudio" />
+  </a>
+</p>
+
+![Snake animation](https://github.com/MarcusFabI0/MarcusFabI0/blob/output/github-contribution-grid-snake.svg)
