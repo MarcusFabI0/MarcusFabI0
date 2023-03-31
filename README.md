@@ -24,7 +24,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,js,html,css,sass,angular,ts,github,git,visualstudio" />
   </a>
-  ![Snake animation](https://github.com/MarcusFabI0/MarcusFabI0/blob/output/github-contribution-grid-snake.svg)
 </p>
+  
+  <p align="center">
+  ![Snake animation](https://github.com/MarcusFabI0/MarcusFabI0/blob/output/github-contribution-grid-snake.svg)
+    <p>
+  
 
 
