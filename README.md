@@ -1,5 +1,10 @@
 ## Hi! Welcome to my GitHub profile! 👋 
+<br><br>
 
+- 🔭 I’m currently studying Angular on MJV School;  
+- 🔭 I recently finished the FullStack Web studies (600h) at Ada's Let's Code;
+- 🌱 I’m always learning more about C# | SQL Server | Javascript | Typescript | Angular | HTML | CSS | GIT | GitHub | and another programming languages;
+- 😄 Pronouns: he/him.
 <br><br>
 
 <div align="center">
@@ -11,10 +16,7 @@
   ## 
   <br>
   
-- 🔭 I’m currently studying Angular on MJV School;  
-- 🔭 I recently finished the FullStack Web studies (600h) at Ada's Let's Code;
-- 🌱 I’m always learning more about C# | SQL Server | Javascript | Typescript | Angular | HTML | CSS | GIT | GitHub | and another programming languages;
-- 😄 Pronouns: he/him.
+
 
 
 <h2 align="center"> Tecnologias que conheço </h2>
