@@ -24,7 +24,7 @@
   </a>
   </p>
   
-  ![Snake animation](https://github.com/MarcusFabI0/MarcusFabI0/blob/output/github-contribution-grid-snake.svg)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
   
 
