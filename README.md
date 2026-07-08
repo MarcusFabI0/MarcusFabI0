@@ -1,18 +1,18 @@
 ## Hi! Welcome to my GitHub profile! 👋 
 <br><br>
 
-- 🌱 I’m always learning more about C# | SQL Server | Javascript | Typescript | Angular | HTML | CSS | GIT | GitHub | and another programming languages;
+- 🌱 I’m always learning more about C# | SQL Server | Javascript | Typescript | React | HTML | CSS | GIT | GitHub | and another programming languages;
 - 😄 Pronouns: he/him.
 <br><br>
 
-<div align="center">
+/*<div align="center">
   <a href="https://github.com/MarcusFabI0">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marcusfabi0&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusFabi0&layout=compact&langs_count=7&theme=dark"/>  
 </div><br>
 
   ## 
-  <br>
+  <br>*/
   
 
 
@@ -23,8 +23,6 @@
     <img src="https://skillicons.dev/icons?i=vscode,js,html,css,sass,angular,ts,github,git,visualstudio" />
   </a>
   </p>
-  
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
   
 
