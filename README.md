@@ -2,7 +2,6 @@
 <br><br>
 
 - 🌱 I’m always learning more about Javascript | Typescript | React | HTML | CSS | GIT | GitHub | and another programming languages;
-- 😄 Pronouns: he/him.
 <br><br>
 
 
